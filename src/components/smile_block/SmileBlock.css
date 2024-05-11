@@ -1,0 +1,12 @@
+.smile-block {
+  text-align: center;
+}
+
+.smile-block img {
+  max-width: 150px;
+  max-height: 150px;
+}
+
+.smile-block p {
+  font-weight: 700;
+}
